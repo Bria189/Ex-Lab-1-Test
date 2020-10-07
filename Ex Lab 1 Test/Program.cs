@@ -92,10 +92,13 @@ namespace Ex_Lab_1_Test
                 max3 = e;
             }
          // afisam de verificare cele 3 max finale
+
             Console.WriteLine("Maximul 1 = {0}", max1);
             Console.WriteLine("Maximul 2 = {0}", max2);
             Console.WriteLine("Maximul 3 = {0}", max3);
+
             // calculam suma celor 3 maxime din sir
+
             Console.WriteLine("Suma maximelor sirului este = {0}", max1 + max2 + max3);
         }
 
